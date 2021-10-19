@@ -35,16 +35,19 @@ In comparison to the other schools in the district, Thomas High School went from
 - **How does replacing the ninth-grade scores affect the following:**
   - Math and reading scores by grade:
   
-    Because all of the grades are set to NaN, they are equivalent to failing. The number of students at Thomas High School with a math grade dropped from 1635 to 1174. The           percentage passing score is greatly reduced.
+    The 9th grade math and reading scores for Thomas High School now reflect as NaN. The students with reading and math grades from Thomas High School went from 1635 to 1174.
     
   - Scores by school spending:
   
-    Thomas High School is still in the spending bucket/ range of $616-$645. They will still receive the same amount of money per student.
+    These numbers stay almost exactly the same even though the 9th graders are removed from the analysis. Thomas High School is still in the spending bin $616-645$ per student.
     
   - Scores by school size:
   
-    Thomas High School is still in the medium school size bucket/range of 1,000 to 2,000. The size of the student body did not change.
+    The overall passing percentage does not change.
 
   - Scores by type:
   
-    Thomas High School is a charter school. The scores for charter schools did not change.
+    Thomas High School is a charter school. The scores for charter schools is not affected by excluding the 9th grade math and reading scores from THS.
+
+## Summary
+Four major changes in the revamped school district analysis are reflected in the average math & reading scores, the percentage passing math and reading, the overall passing scores and the district and school summaries. Funding has not changed, but more oversight and policies regarding accuracy in academic reporting should be implemented.
